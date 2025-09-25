@@ -105,6 +105,7 @@ export default function Header() {
       </Navbar>
 
       <h6>Hello</h6>
+      <h6>Hello</h6>
     </>
   );
 }
